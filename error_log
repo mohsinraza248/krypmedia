@@ -1,0 +1,12 @@
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(includes/common-head): failed to open stream: No such file or directory in /home/navratriwithmi/public_html/krypmedia/index.php on line 5
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(includes/common-head): failed to open stream: No such file or directory in /home/navratriwithmi/public_html/krypmedia/index.php on line 5
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(): Failed opening 'includes/common-head' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/navratriwithmi/public_html/krypmedia/index.php on line 5
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(includes/navigation): failed to open stream: No such file or directory in /home/navratriwithmi/public_html/krypmedia/index.php on line 11
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(includes/navigation): failed to open stream: No such file or directory in /home/navratriwithmi/public_html/krypmedia/index.php on line 11
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(): Failed opening 'includes/navigation' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/navratriwithmi/public_html/krypmedia/index.php on line 11
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(includes/footer): failed to open stream: No such file or directory in /home/navratriwithmi/public_html/krypmedia/index.php on line 379
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(includes/footer): failed to open stream: No such file or directory in /home/navratriwithmi/public_html/krypmedia/index.php on line 379
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(): Failed opening 'includes/footer' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/navratriwithmi/public_html/krypmedia/index.php on line 379
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(includes/footer-script): failed to open stream: No such file or directory in /home/navratriwithmi/public_html/krypmedia/index.php on line 383
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(includes/footer-script): failed to open stream: No such file or directory in /home/navratriwithmi/public_html/krypmedia/index.php on line 383
+[09-Sep-2021 09:21:59 UTC] PHP Warning:  include(): Failed opening 'includes/footer-script' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/navratriwithmi/public_html/krypmedia/index.php on line 383

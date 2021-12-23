@@ -1,0 +1,162 @@
+
+@media only screen and (max-width : 1200px){
+ 	.social{
+        top: 125px;
+    }
+    
+    .caption h1{
+        font-size:40px;
+    }
+}
+
+@media only screen and (max-width : 992px){
+    .social{
+        top: 125px;
+        left: 63%;
+    }
+    
+    .scroll-btn{
+        margin-top:45%;
+    }
+ 	
+}
+@media only screen and (max-width : 768px){
+ 	.social{
+	    position: absolute;
+	    overflow: hidden;
+	    top: 50%;
+	    left: 50%;
+	    transform: translate(-50%,-50%);
+	    max-width: initial;
+	    width: auto;
+ 	}
+ 	.social ul li span{
+ 		display: none;
+ 	}
+ 	.c-line::after{
+ 		display: none;
+ 	}
+ 	.c-line::before{
+ 		display: none;
+ 	}
+ 	#quote-carousel .carousel-indicators li{
+ 		display: none !important; 
+ 	}
+ 	#quote-carousel .carousel-indicators .active{
+ 		margin: auto;
+ 		display: block !important; 
+ 	}
+ 	#quote-carousel .carousel-indicators{
+ 		left: 0%;
+ 	}
+ 	.video-h{
+ 		/*height: 800px;*/
+ 	}
+ 	.cta_heading{
+ 		font-size: 1.5rem;
+ 	}
+ 	
+ 	#menuicon{
+ 	    display: none;
+ 	}
+ 	
+ 	.caption{
+ 	    width: 150%;
+ 	    transform: translate(-50%,60%);
+ 	}
+ 	
+ 	.scroll-btn{
+        margin-top:55%;
+    }
+}
+@media only screen and (min-width : 768px){
+
+}
+@media only screen and (max-width: 650px) {
+    .scroll-btn{
+        margin-top:50%;
+    }
+    
+    .social{
+	    transform: translate(-50%,0%);
+ 	}
+ 	
+ 	.caption h1{
+        font-size:35px;
+    }
+    
+    .owl-carousel .owl-item .item{
+        max-width: 480px;
+    }
+    
+}
+@media only screen and (max-width : 480px){
+	.caption{
+	    top: 40px;
+	}
+	
+	.caption h1{
+        font-size:20px;
+    }
+    
+    .caption .red-btn{
+        margin: 20px 0!important;
+    }
+    
+	.social{
+	    transform: translate(-50%,110%);
+ 	}
+ 	
+ 	.scroll-btn{
+        margin-top:60%;
+    }
+    
+    .owl-carousel .owl-item .item{
+        max-width: 380px;
+    }
+ 	
+}
+@media only screen and (max-width: 320px) {
+ 	.caption{
+	    top: 100px;
+	}
+	
+	.caption h1{
+        font-size:17px;
+    }
+    
+    .caption .red-btn{
+        margin: 8px 0!important;
+        padding: 15px 24px!important;
+    }
+    
+	.social{
+	    transform: translate(-50%,150%);
+ 	}
+ 	
+ 	.scroll-btn{
+        margin-top:70%;
+    }
+    
+    .scroll-btn a img{
+        width:70%;
+    }
+    
+    .owl-carousel .owl-item .item{
+        max-width: 250px;
+    }
+    
+}
+
+@media only screen and (min-width:601px){
+    .videobg2 {
+        background: url('..../images/tech_brain.jpg') repeat-x;
+    }
+    
+}
+
+@media only screen and (max-width:600px){
+    .videobg2 {
+        background: url('..../images/tech_brain.jpg') repeat-x;
+    }
+}

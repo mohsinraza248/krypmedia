@@ -1,0 +1,47 @@
+[27-Aug-2021 07:11:58 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php:1624
+Stack trace:
+#0 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#1 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Fri, 27 A...', 'Dear Sonal Mahe...')
+#2 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#3 /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php(106): PHPMailer->send()
+#4 {main}
+  thrown in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php on line 1624
+[27-Aug-2021 07:14:49 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php:1624
+Stack trace:
+#0 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#1 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Fri, 27 A...', 'Dear Sonal Mahe...')
+#2 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#3 /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php(106): PHPMailer->send()
+#4 {main}
+  thrown in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php on line 1624
+[27-Aug-2021 07:15:51 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php:1624
+Stack trace:
+#0 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#1 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Fri, 27 A...', 'Dear Sonal Mahe...')
+#2 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#3 /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php(106): PHPMailer->send()
+#4 {main}
+  thrown in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php on line 1624
+[27-Aug-2021 11:41:01 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php:1624
+Stack trace:
+#0 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#1 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Fri, 27 A...', 'Dear Sudhanshu,...')
+#2 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#3 /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php(117): PHPMailer->send()
+#4 {main}
+  thrown in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php on line 1624
+[27-Aug-2021 11:44:02 UTC] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not connect to SMTP host. in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php:1624
+Stack trace:
+#0 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#1 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Fri, 27 A...', 'Dear Sudhanshu,...')
+#2 /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#3 /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php(111): PHPMailer->send()
+#4 {main}
+  thrown in /home/navratriwithmi/public_html/krypmedia/psm/phpmailer/class.phpmailer.php on line 1624
+[27-Aug-2021 12:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer::errorMessage() in /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php on line 71
+[27-Aug-2021 12:10:30 UTC] PHP Parse error:  syntax error, unexpected '$phpmailerException' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php on line 66
+[27-Aug-2021 12:11:26 UTC] PHP Parse error:  syntax error, unexpected '$phpmailerException' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php on line 66
+[27-Aug-2021 12:11:36 UTC] PHP Parse error:  syntax error, unexpected '$phpmailerException' (T_VARIABLE), expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) in /home/navratriwithmi/public_html/krypmedia/psm/mail-send.php on line 66

@@ -1,0 +1,82 @@
+SCORE IS 
+03AGdBq26is-EfD7HRWLHRtfY_n4xPF292EinNA7UXUargACE-P5wIY8ezuaiwXOfWwUfaXf8Xb50jRIZ-IGqQltOXVdj64v704LNfgEhldV2KsMzyhYkozHxRIw64cN8nAiPd9bzpgQRNkxelv_Dkex8FAL-r_Cn4WSoW9nyDBTXAggbui-eqpBCr_MqRIxCdMoPR7f03Ac4JH3g0Z-BH3jd8c_o7zXeRrxY9mNqUV97_bd7xRbkI9GRIudRqxQ1HK-iOtHUP9nIKrMzvVix7gK17we6q0iR8u-VlVBHg8gzDMlT67TM5zIQEYPXrXd23lXa6Ni_G8YW7pmQ-EodvfHKBbFYzxyJt6ZkSxnxrMnSdbAWXm3leSgFmbv02YVhYsrJtmTOIZCnU6CERs8BbrEeEbjnQKLz4MTz_GtEPSlPzMvWTx4FH78zVUYCQ_1jtlR8dBVIfZJEC1r5p5sdqyIvWWzPQ0MwTXwSCORE IS 0.9
+SCORE IS 0.9
+failed to send email to admin.
+failed to send email to user.
+failed to send email to admin, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not connect to SMTP host.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+Confidence Score is fine
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to admin, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
+failed to send email to user, error is: <strong>SMTP Error: Could not authenticate.</strong><br />
+
