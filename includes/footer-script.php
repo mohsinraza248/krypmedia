@@ -26,6 +26,7 @@
 		margin: 10,
 		loop: true,
 		nav:true,
+		navText: ["Prev","Next"],
 		responsiveClass:true,
 		responsive:{
 			0:{
@@ -34,7 +35,7 @@
 			},
 			600:{
 				items:3,
-				nav:false
+				nav:true
 			},
 			1000:{
 				items:3,
