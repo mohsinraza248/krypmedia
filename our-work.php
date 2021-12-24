@@ -21,6 +21,7 @@
     			    </div>
     			    <!--<div style="flex:1; display: flex; flex-direction: column; height: 95%!important;border: solid 10px #6c3e6d;margin-right:10px; border-radius:5px; background: white">-->
     			    <div style="flex:1; display: flex; flex-direction: column; height: 95%!important;border: solid 10px #36454F;margin-right:10px; border-radius:5px; background: white">
+				<div class ="mobile">
     			        <div style="flex:1; display: flex; flex-direction: row; height: 33%!important;">
     			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
     			                <img src="./images/client/20th century.png" id="test1" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
@@ -54,6 +55,7 @@
     			                <img src="./images/client/deepali designs.png" id="test9" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
     			            </div>
     			        </div>
+				</div>
     			    </div>
     			    
     			</div>
