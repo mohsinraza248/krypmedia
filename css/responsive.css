@@ -164,5 +164,6 @@
 	.mobile{
 		display: flex;
 		flex-direction: row;
+		height: 50%;
 	}
 }
