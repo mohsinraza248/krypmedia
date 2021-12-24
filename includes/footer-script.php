@@ -52,9 +52,6 @@
 		nav:true,
 		navText: ["Prev","Next"],
 		responsiveClass:true,
-		dots:true,
-		dotData: true,
-		dotsData: true,
 		responsive:{
 			0:{
 				items:3,
