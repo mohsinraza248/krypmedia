@@ -104,7 +104,7 @@
     }
     
 	.social{
-	    transform: translate(-0%,10%)
+	    transform: translate(-50%,10%);
             position: relative;
 	    margin-bottom: 20px;
 	    float: left;
