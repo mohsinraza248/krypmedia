@@ -104,7 +104,8 @@
     }
     
 	.social{
-	    transform: translate(-80%);
+	    transform: translate(-50%,110%);
+            position: relative
  	}
  	
  	.scroll-btn{
