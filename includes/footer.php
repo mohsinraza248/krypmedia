@@ -16,7 +16,7 @@
 				</div>
 			</div>
 			<div class="col-sm-4">
-				<div class="contact">
+				<div class="contact c-line">
 					<i class="far fa-envelope"></i><br>
 					<!--     <b>Email Address</b><br>-->
 					<p><a href="mailto:sales@experientialetc.com" class="footer-mail footer-link">sales@experientialetc.com</a></p>
