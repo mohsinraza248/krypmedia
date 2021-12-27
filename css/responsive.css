@@ -142,6 +142,11 @@
 		align-items: center;
 
 	    }
+	
+	.nav-items{
+		align-self: center;
+	}
+	
 
 	    video{
 		width: 100%;
