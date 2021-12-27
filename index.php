@@ -19,6 +19,8 @@
 	<body>
 	    
 		<?php include ('includes/navigation.php') ; ?>
+		
+		<div class="videobg">
 		<div id="video_overlays"> <!-- style="padding: 40%  25%" -->
 			<div class="container">
 				<div class="col">
@@ -40,8 +42,6 @@
 				</div>
 			</div>
 		</div>
-		<div class="videobg">
-		
 		<video  width="100%" class="video-h"  autoplay="" muted="" loop="" id="holomistVideo" playsinline>
             <source src="videos/home-video.mp4" type="video/mp4">
 
