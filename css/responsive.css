@@ -123,7 +123,7 @@
 		align-items: center;
 	}
 	.top-links li p{
-		float: right;
+		/*float: right;*/
 		color: #FFF;
 		font-size: 15px;
 		text-transform: uppercase;
