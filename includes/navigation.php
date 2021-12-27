@@ -51,12 +51,12 @@
 /*Shubham 17/12/21*/
 
     .header .menu .container .row{
-          backdrop-filter: blur(8px);
+          backdrop-filter: blur(8px) contrast(60%);;
     }
     
 @media only screen and (max-width: 768px) {
      .header .menu .container .row{
-          backdrop-filter: blur(8px);
+          backdrop-filter: blur(8px) contrast(60%);;
     }
     /*
     .header{
