@@ -55,6 +55,9 @@
     }
     
 @media only screen and (max-width: 768px) {
+     .header .menu .container .row{
+          backdrop-filter: blur(8px);
+    }
     /*
     .header{
         align-items:center;
