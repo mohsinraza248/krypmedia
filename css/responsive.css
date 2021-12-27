@@ -128,6 +128,35 @@
 	.top-links li img{
 		margin-right: 5px;
 	}
+	
+	 .logo {
+		width:60%;
+		margin:auto;
+	      }
+	    .row{
+		  backdrop-filter: blur(8px);
+	    }
+
+	    .top-links{
+		display: flex;
+		align-items: center;
+
+	    }
+
+	    video{
+		width: 100%;
+	    }
+
+	    .scroll-btn img{
+		width:5vw;
+		height:6vh;
+		margin-top: 50%;
+	    }
+
+	    .header{
+		padding:0;
+	    }
+
 
  	/*Shubham - STOP - 27/12 - For changing space between every word in navbar*/
 }
