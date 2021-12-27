@@ -10,8 +10,8 @@
       <div class="videobg">
 		<div id="video_overlays"><h1>Holovsn </h1><br>
 			<p class="breadcrumb_text">Home &gt; The Tech  &gt; Holovsn</p></div>
-		<video  width="100%" class="video-h"  autoplay="" muted="" loop="" id="holomistVideo" class="scrollhidex">
-            <source src="videos/Holovsn.mp4" type="video/mp4">
+		<video  width="100%" height="" class="video-h" autoplay="autoplay" loop="loop" muted defaultMuted playsinline  oncontextmenu="return false;"  preload="auto"  id="myVideo  class="scrollhidex">
+            <source src="videos/Holovsn.mp4" media="screen and (max-device-width: 600px)" type="video/mp4">
         </video>
       </div>
       <div class="main">
