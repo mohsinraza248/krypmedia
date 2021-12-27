@@ -27,6 +27,10 @@
 		loop: true,
 		nav:true,
 		navText: ["Prev","Next"],
+		autoplay: true;
+		autoplayTimeout: 2000,
+		autoplayHoverPause: true,
+		dots:false,
 		responsiveClass:true,
 		responsive:{
 			0:{
