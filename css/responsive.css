@@ -119,14 +119,14 @@
     }
 	/*Shubham - START - 27/12 - For changing space between every word in navbar*/
 	.top-links li p{
-		float: right;
+		float: center;
 		color: #FFF;
 		font-size: 10px;
 		text-transform: uppercase;
 	}
 	
 	.top-links li img{
-		margin-right: 2px;
+		margin-right: 0px;
 	}
  	/*Shubham - STOP - 27/12 - For changing space between every word in navbar*/
 }
