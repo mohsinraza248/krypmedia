@@ -32,7 +32,7 @@
 			<div class="col-sm-3">
 				<div class="tab">
 					<h4>Next Level</h4>
-					<div class="exp">
+					
 					<ul>
 						<li><a href="Holovsn"><i class="fas fa-chevron-right"></i>Holovsn</a></li>
 						<li><a href="Holonet"><i class="fas fa-chevron-right"></i>Holonet</a></li>
@@ -55,7 +55,7 @@
 						<!--<li><a href="Peppers-Ghost"><i class="fas fa-chevron-right"></i>PEPPERS GHOST</a></li>-->
 						<!--<li><a href="Holopyramid"><i class="fas fa-chevron-right"></i>HOLOPYRAMID</a></li>-->
 					</ul>
-				        </div>
+				        
 				</div>
 			</div>
 			<div class="col-sm-3">
