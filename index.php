@@ -10,38 +10,10 @@
 		        background-color:black;
 		    }
 		    .row{
-                  backdrop-filter: blur(8px);
-            }
-		    @media only screen and (max-width: 600px) {
-              .logo {
-                width:50%;
-                margin:auto;
-              }
-            .row{
-                  backdrop-filter: blur(5px);
-            }
-            
-            .top-links{
-                display: flex;
-                align-items: center;
-              
-            }
-         
-            video{
-                width: 100%;
-            }
-            
-            .scroll-btn img{
-                width:5vw;
-                height:6vh;
-                margin-top: 50%;
-            }
-            
-            .header{
-                padding:0;
-            }
-            
-            
+                 	 backdrop-filter: blur(8px);
+			}
+			     
+
 		</style>
 	</head>
 	<body>
