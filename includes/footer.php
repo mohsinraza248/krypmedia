@@ -45,9 +45,9 @@
 				</div>
 			</div>
 			<div class="col-sm-3">
-				<div class="tab" style="margin-top: 30px;">
+				<div class="tab exp" style="margin-top: 30px;">
 					<ul>
-					<div class="exp">
+					
 					    <li><a href="Holopyramid"><i class="fas fa-chevron-right"></i>Holopyramid</a></li>
 						<li><a href="Digiplay"><i class="fas fa-chevron-right"></i>Digiplay</a></li>
 						<li><a href="AR"><i class="fas fa-chevron-right"></i>Digital Solutions</a></li>
@@ -55,7 +55,7 @@
 						<li><a href="Holomist"><i class="fas fa-chevron-right"></i>Holomist</a></li>
 						<!--<li><a href="Peppers-Ghost"><i class="fas fa-chevron-right"></i>PEPPERS GHOST</a></li>-->
 						<!--<li><a href="Holopyramid"><i class="fas fa-chevron-right"></i>HOLOPYRAMID</a></li>-->
-					</div>
+					
 					</ul>
 				        
 				</div>
