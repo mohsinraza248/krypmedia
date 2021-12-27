@@ -123,7 +123,7 @@
 	/*Shubham - START - 27/12 - For changing space between every word in navbar*/
 	.top-links li p{
 		float: right;
-		margin: auto;/*Shubham added this*/
+		margin: 0px;/*Shubham - START - 27/12 -For changing space between every word in navbar*/
 		color: #FFF;
 		font-size: 15px;
 		text-transform: uppercase;
@@ -170,14 +170,7 @@
  	/*Shubham - STOP - 27/12 - For changing space between every word in navbar*/
 	
 }
-/*Shubham - START - 27/12 - For removing space between LIVEGLASS and HOLOPYRAMID in navbar*/
-@media only screen and (min-width: 480px) {
-	/*
-	.footer .container .row .tab{
-		margin-top: 0px;
-	    }
-}
-/*Shubham - END - 27/12 - For removing space between LIVEGLASS and HOLOPYRAMID in navbar*/
+
 
 @media only screen and (max-width: 320px) {
  	.caption{
