@@ -170,7 +170,7 @@
 @media only screen and (min-width: 480px) {
 	
 	.footer .container .row .tab{
-		margin-top: 30px;
+		margin-top:0px;
 	    }
 }
 /*Shubham - END - 27/12 - For removing space between LIVEGLASS and HOLOPYRAMID in navbar*/
@@ -250,4 +250,16 @@
 	.exp{
 	  margin-top: -10px;
         }
+}
+@media only screen and (min-width: 1025px){
+    .exp{
+	     margin-top: -10px;
+    }
+    
+}
+
+@media only screen and (max-width: 1280px){
+    .exp{
+	     margin-top: -10px;
+    }
 }
