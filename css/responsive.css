@@ -164,6 +164,12 @@
 
 
  	/*Shubham - STOP - 27/12 - For changing space between every word in navbar*/
+	
+	/*Shubham - START - 27/12 - For removing space between LIVEGLASS and HOLOPYRAMID in navbar*/
+	.footer .container .row .tab{
+		margin-top:0px;
+	    }
+	/*Shubham - END - 27/12 - For removing space between LIVEGLASS and HOLOPYRAMID in navbar*/
 }
 @media only screen and (max-width: 320px) {
  	.caption{
