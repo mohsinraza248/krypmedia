@@ -45,7 +45,7 @@
 				</div>
 			</div>
 			<div class="col-sm-3">
-				<div class="tab" style="margin-top: 10px;">
+				<div class="tab" style="margin-top: 30px;">
 					<ul>
 					    <li><a href="Holopyramid"><i class="fas fa-chevron-right"></i>Holopyramid</a></li>
 						<li><a href="Digiplay"><i class="fas fa-chevron-right"></i>Digiplay</a></li>
