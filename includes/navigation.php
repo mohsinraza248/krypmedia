@@ -37,6 +37,7 @@
                             <span class="bar"></span>
                         </div>
                       </div>
+                   </div>
                </div>
             </div>
          </div>
