@@ -118,10 +118,14 @@
         max-width: 380px;
     }
 	/*Shubham - START - 27/12 - For changing space between every word in navbar*/
+	
+	.top-links{
+		align-items: center;
+	}
 	.top-links li p{
-		float: center;
+		float: right;
 		color: #FFF;
-		font-size: 10px;
+		font-size: 15px;
 		text-transform: uppercase;
 	}
 	
