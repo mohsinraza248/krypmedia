@@ -73,7 +73,6 @@
 	p{
 		text-align: center; /* Shubham - 27/12 - for removing spacing between navbar text*/
 		margin:0px;
-		font-size: 12px;
 	}
 }
 @media only screen and (max-width: 650px) {
@@ -124,14 +123,14 @@
 	/*Shubham - START - 27/12 - For changing space between every word in navbar*/
 	.top-links li p{
 		float: right;
-		margin: 0px;/*Shubham - START - 27/12 -For changing space between every word in navbar*/
+		/*margin: 0px;Shubham - START - 27/12 -For changing space between every word in navbar*/
 		color: #FFF;
 		font-size: 15px;
 		text-transform: uppercase;
 	}
 	
 	.top-links li img{
-		margin-right: 5px;
+		/*margin-right: 5px;*/
 	}
 	
 	 .logo {
