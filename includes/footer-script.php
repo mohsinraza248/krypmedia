@@ -35,7 +35,7 @@
 			},
 			600:{
 				items:3,
-				nav:true
+				nav:false
 			},
 			1000:{
 				items:3,
@@ -44,6 +44,7 @@
 			}
 		}
 	})
+	
 </script>
 <script>
 	$('#myCarousel2').owlCarousel({
