@@ -224,18 +224,3 @@
 		height: 90%;
 	}
 }
-@media only screen and (min-width:601px){
-	.exp{
-		display: flex;
-		flex-direction: column;
-		
-	}
-}
-
-@media only screen and (max-width:600px){
-	.exp{
-		display: flex;
-		flex-direction: column;
-		
-	}
-}
