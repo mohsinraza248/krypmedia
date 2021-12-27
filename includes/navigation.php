@@ -4,7 +4,7 @@
                <div class="row">
                       <div class="col-sm-4" style="z-index: 1001;">
                          <div class="logo">
-                            <a href="index"><img src="images/Experiential video.gif" width="100%"></a>
+                            <a href="index"><img src="images/Experiential video.gif" width="100%" /></a>
                          </div>
                       </div>
                       <!--<div class="col-sm-7">-->
