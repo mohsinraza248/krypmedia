@@ -119,7 +119,7 @@
     }
 	/*Shubham - START - 27/12 - For changing space between every word in navbar*/
 	.top-links li p{
-		float: right;
+		/*float: right;*/
 		color: #FFF;
 		font-size: 15px;
 		text-transform: uppercase;
@@ -130,7 +130,7 @@
 	}
 	
 	 .logo {
-		width:60%;
+		width:55%;
 		margin:auto;
 	      }
 	    .row{
