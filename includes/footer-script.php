@@ -27,7 +27,6 @@
 		loop: true,
 		nav:true,
 		navText: ["Prev","Next"]
-		dots:false,
 		responsiveClass:true,
 		responsive:{
 			0:{
