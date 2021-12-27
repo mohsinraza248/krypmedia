@@ -60,7 +60,7 @@ body{
 p{
 	color: #FFF;
 	font-size: 16px;
-	text-align: justify;
+	/*text-align: justify;  Shubham - 27/12 - for removing spacing between navbar text*/
 	font-family: 'Lato Thin', sans-serif;
 	
 }
