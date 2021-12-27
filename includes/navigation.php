@@ -55,7 +55,7 @@
     }
     
 @media only screen and (max-width: 768px) {
-    
+    /*
     .header{
         align-items:center;
         -webkit-backdrop-filter: blur(8px);
@@ -66,10 +66,11 @@
         margin-right: 15px;
 
     }
+         */
     
 }
   /*Shubham for hamburger for mobile 18/12/21 */
-  
+  /*
       .hamburger {
         flex-direction: left;
         position: sticky;
@@ -86,6 +87,7 @@
         transition: all 0.3s ease-in-out;
         background-color: #D0BB00;/*#101010;*/
     }
+         /*
     
     @media only screen and (max-width: 768px) {
         .top-links {
@@ -94,7 +96,7 @@
             top: 5rem;
             flex: left;
             flex-direction: column;
-            background-color: #808080;/*#fff;*/
+            background-color: #808080;/*#fff;*//*
             width: 100%;
             border-radius: 8px;
             text-align: center;
@@ -114,7 +116,7 @@
         }
     
         .hamburger {
-            /*display: block;*/
+            /*display: block;*//*
             display: inline;
             cursor: pointer;
             border-bottom: 1px solid #E2E8F0;
@@ -134,10 +136,11 @@
     
     }
 
-
+*/
 </style>
 
 <script>
+         /*
     const hamburger = document.querySelector(".hamburger");
     const navMenu = document.querySelector(".top-links");
     
@@ -156,6 +159,7 @@
         hamburger.classList.remove("active");
         navMenu.classList.remove("active");
     }
+    */
 </script>
 
 
