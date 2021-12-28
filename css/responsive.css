@@ -137,7 +137,8 @@
     }
 	/*Shubham - 28/12 - for "who we are", adding space between images for mobile*/
 	.overlay{
-		padding-bottom: 5px;
+		/*padding-bottom: 5px;*/
+		margin-bottom: 20%;
 	}
 	/*Shubham - START - 27/12 - For changing space between every word in navbar*/
 	.top-links li p{
