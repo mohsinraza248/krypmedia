@@ -98,7 +98,7 @@
 					</div>
 					
 					<!---------------NEW WORK ROW 2------------------------>
-					<div class="row our-work-page our-work-videos">
+					<div class="row our-work-page our-work-videos phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="https://www.youtube.com/watch?v=SanZAvnm7IM" class="full-size red-btn">
@@ -126,7 +126,7 @@
 					</div>
 					
 					<!---------------NEW WORK ROW 3------------------------>
-					<div class="row our-work-page our-work-videos">
+					<div class="row our-work-page our-work-videos phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="https://www.youtube.com/watch?v=XNXVAAAEAjY" class="full-size red-btn">
@@ -155,7 +155,7 @@
 					
 					
 					<!---------------NEW WORK ROW 4------------------------>
-					<div class="row our-work-page our-work-videos">
+					<div class="row our-work-page our-work-videos phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="https://www.youtube.com/watch?v=U8xM7iQXsMg" class="full-size red-btn">
@@ -184,7 +184,7 @@
 					
 					
 					<!---------------NEW WORK ROW 5------------------------>
-					<div class="row our-work-page our-work-videos">
+					<div class="row our-work-page our-work-videos phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="https://www.youtube.com/watch?v=UJNEtYFj7rg" class="full-size red-btn">
@@ -212,7 +212,7 @@
 					</div>
 					
 					<!---------------NEW WORK ROW 6------------------------>
-					<div class="row our-work-page our-work-videos">
+					<div class="row our-work-page our-work-videos phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="https://www.youtube.com/watch?v=kkb5rUZnk3g" class="full-size red-btn">
@@ -240,7 +240,7 @@
 					</div>
 					
 					<!---------------NEW WORK ROW 7------------------------>
-					<div class="row our-work-page our-work-videos">
+					<div class="row our-work-page our-work-videos phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="https://www.youtube.com/watch?v=CZIE5yG59h0" class="full-size red-btn">
@@ -268,7 +268,7 @@
 					</div>
 					
 					<!---------------NEW WORK ROW 8------------------------>
-					<div class="row our-work-page our-work-videos">
+					<div class="row our-work-page our-work-videos phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="https://www.youtube.com/watch?v=gjr9lqUR4qM" class="full-size red-btn">
@@ -296,7 +296,7 @@
 					</div>
 					
 					<!---------------NEW WORK ROW 9------------------------>
-					<div class="row our-work-page our-work-videos">
+					<div class="row our-work-page our-work-videos phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="https://www.youtube.com/watch?v=6YYdqToJEzs" class="full-size red-btn">
@@ -324,7 +324,7 @@
 					</div>
 					
 					<!---------------NEW WORK ROW 10------------------------>
-					<div class="row our-work-page our-work-videos">
+					<div class="row our-work-page our-work-videos phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="https://www.youtube.com/watch?v=P1RiWdCd_t0" class="full-size red-btn">
@@ -352,7 +352,7 @@
 					</div>
 					
 					<!-----------------Old Work ROW 1------------------------>
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="images/BLACKBERRY_new.png" class=" red-btn" data-toggle="modal" data-target="#blackberry">
@@ -387,7 +387,7 @@
 						</div>
 					</div>
 					<!----------------------ROW 2------------------------>
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#coffee" class="red-btn">
@@ -466,7 +466,7 @@
 					</div>
 					
 					<!----------------------ROW 3------------------------>
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#deepali" class="red-btn">
@@ -505,7 +505,7 @@
 						</div>
 					</div>
 					
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#disney" class="red-btn">
@@ -544,7 +544,7 @@
 						</div>
 					</div>
 					
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#food" class="red-btn">
@@ -583,7 +583,7 @@
 						</div>
 					</div>
 					
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#fox" class="red-btn">
@@ -617,7 +617,7 @@
 						</div>
 					</div>	
 					
-					<div class="row our-work-page">	
+					<div class="row our-work-page phone">	
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#goodwin" class=" red-btn">
@@ -656,7 +656,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#imperial" class="red-btn">
@@ -697,7 +697,7 @@
 					
 					<!----------------------ROW 7------------------------>
 					<!--
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image"  href="#" data-toggle="modal" data-target="#liveglass" class="red-btn">
@@ -737,7 +737,7 @@
 					</div>
 					-->
 					<!----------------------ROW 8------------------------>
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#mod" class="red-btn">
@@ -771,7 +771,7 @@
 						</div>
 					</div>
 					
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#nick" class="red-btn">
@@ -811,7 +811,7 @@
 					</div>
 					
 					<!----------------------ROW 9------------------------>
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#samsung" class="red-btn">
@@ -845,7 +845,7 @@
 						</div>
 					</div>
 					
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#sunpharma" class="red-btn">
@@ -884,7 +884,7 @@
 						</div>
 					</div>
 					
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#ucb" class=" red-btn">
@@ -924,7 +924,7 @@
 					</div>
 					
 					<!----------------------ROW 10------------------------>
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#zee" class=" red-btn">
@@ -965,7 +965,7 @@
 					</div>
 					
 					<!----------------------ROW 11------------------------>
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#Cadbury" class=" red-btn">
@@ -1005,7 +1005,7 @@
 						</div>
 						
 					</div>	
-					<div class="row our-work-page">
+					<div class="row our-work-page phone">
 						<div class="col-sm-6">
 							<div class="images-wrapper">
 								<a id="single_image" href="#" data-toggle="modal" data-target="#Platinum" class=" red-btn">
