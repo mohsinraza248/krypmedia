@@ -137,7 +137,7 @@
     }
 	/*Shubham - 28/12 - for "who we are", adding space between images for mobile*/
 	 .our-work-single-desc{
-		padding-bottom: 15%;
+		/*padding-bottom: 15%;*/
 	}
 	/*Shubham - START - 27/12 - For changing space between every word in navbar*/
 	.top-links li p{
