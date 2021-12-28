@@ -327,9 +327,9 @@
 					<div class="row">
 					    <div class="col-sm-3">
 							<div class="overlay">
-								<img class="img-responsive" src="images/about/snehangshu.jpg">
+								<img class="img-responsive" src="images/about/Snehangshu Dasgupta.jpg">
 								<div class="our-work-single-desc">
-								    <img class="img-responsive" src="images/about/snehangshu.jpg">
+								    <img class="img-responsive" src="images/about/Snehangshu Dasgupta.jpg">
 									<p>Snehangshu Dasgupta </p>
 									<p><i>PR Manager</i></p>
 								</div>
