@@ -142,6 +142,13 @@
     .owl-carousel .owl-item .item{
         max-width: 380px;
     }
+	/*Shubham - START - 27/12 - For changing space between TECH over video bg*/
+	.red-btn{
+        	font-size: 12px;
+		padding: 13px 21px;
+   	 }
+	
+
 	
 	/*Shubham - START - 27/12 - For changing space between every word in navbar*/
 	.top-links li p{
