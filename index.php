@@ -9,11 +9,12 @@
 		    body{
 		        background-color:black;
 		    }
+			/*
 		    .row{
                  	 backdrop-filter: blur(8px);
 			 background:rgba(0,0,0,0.8);
 			}
-			
+			*/
 			
 			     
 
