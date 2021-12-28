@@ -458,9 +458,9 @@
 	top: 50%;
 	left: 50%;
 	
-	-webkit-transform: translate(-50%, -50%);
+	/*-webkit-transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);*/
 	text-align: center;
 	}
 	.our-work-single-desc p.description{
