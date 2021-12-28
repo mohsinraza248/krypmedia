@@ -213,10 +213,10 @@
 								<div class="our-work-single-desc">
 								    <img class="img-responsive" src="images/about/new/chandan 2.png">
 									<p>Chandan Jha</p>
-									<p><i>IRON MAN</i></p>
+									<p><i>Sr.Electrician</i></p>
 								</div>
 									<p>Chandan Jha</p>
-									<p><i>IRON MAN</i></p>
+									<p><i>Sr.Electrician</i></p>
 							</div>
 						</div>
 					</div>
