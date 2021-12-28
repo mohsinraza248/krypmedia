@@ -854,8 +854,8 @@ a:hover{
     /*background: #000;*/
     /*background: url("../images/test3.jpg");*/
     /*background: #faff19;*/
-    /*z-index: 1;*/
-    z-index: -1;
+    z-index: 1;
+   /* z-index: -1;*/
     position: relative;
     overflow: hidden;
 }
@@ -890,8 +890,8 @@ a:hover{
     min-height: 370px;
    /* background-color: #08080887;*/
     /* z-index: 300000; */
-    /*z-index: 30;*/
-    z-index: 0;
+    z-index: 30;
+   /* z-index: 0;*/
     text-align: center!important;
 	
 }
@@ -1019,8 +1019,8 @@ p.our_work_text {
     /*background: #000;*/
     /*background: #bb072c;*/
     background: #D0BB00;
-    /*z-index: 1;*/
-    z-index: -1;
+    z-index: 1;
+   /* z-index: -1;*/
 	background-image: url("../images/banner.jpg");
 	background-attachment: fixed;
 }
@@ -1035,8 +1035,8 @@ div#video_overlays2 {
     
     background-color: #08080887;
     /* z-index: 300000; */
-    /*z-index: 30;*/
-    z-index: 0;
+   z-index: 30;
+    /* z-index: 0;*/
     text-align: center!important;
 }
 
