@@ -50,7 +50,7 @@
 		margin: 10,
 		loop: true,
 		nav:true,
-		navText: ["Prev","Next"],
+		
 		responsiveClass:true,
 		dots:true,
 		dotData: true,
