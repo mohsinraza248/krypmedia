@@ -31,16 +31,16 @@
 		responsive:{
 			0:{
 				items:1,
-				nav:true
+				nav:true,
 			},
 			600:{
 				items:3,
-				nav:false
+				nav: true,
 			},
 			1000:{
 				items:3,
 				nav:true,
-				loop:false
+				loop:false,
 			}
 		}
 	})
