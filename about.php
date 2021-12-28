@@ -37,7 +37,7 @@
 						</div>
 					</div>
 					<br>
-					<div class="row">
+					<div class="row" >
 						<div class="col-sm-12">
 							<div class="title">
 								<h1>Meet Our Team</h1><br>
@@ -45,7 +45,7 @@
 						</div>
 					</div>
 					
-					<div class="row">
+					<div class="row" class="resp-row">
 						<div class="col-sm-2"></div>
 						<div class="col-sm-4">
 							<div class="overlay">
@@ -93,7 +93,7 @@
 					</div>
 					
 					
-					<div class="row">
+					<div class="row" class="resp-row">
 						<div class="col-sm-4">
 							<div class="overlay">
 								<img class="img-responsive" src="images/about/new/Avinash 2.png">
