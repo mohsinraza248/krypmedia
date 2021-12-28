@@ -49,14 +49,7 @@
      
 <style>
 /*Shubham 17/12/21*/
-  .header .menu .container .row{
-          backdrop-filter: blur(8px);
-	 background:rgba(0,0,0,0.8);
-     }
-    .header .menu .container .row{
-          backdrop-filter: blur(8px);
-    }
-    
+ 
 @media only screen and (max-width: 768px) {
      .header .menu .container .row{
           backdrop-filter: blur(8px);
