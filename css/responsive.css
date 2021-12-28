@@ -70,7 +70,7 @@
     }
 }
 @media only screen and (max-width : 400px){
-	p{
+	.nav-item p{
 		text-align: center; /* Shubham - 27/12 - for removing spacing between navbar text*/
 		margin:0px;
 		font-size:10px;
