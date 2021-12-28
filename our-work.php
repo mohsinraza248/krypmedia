@@ -24,35 +24,35 @@
 				<div class ="mobile">
     			        <div style="flex:1; display: flex; flex-direction: row; height: 33%!important;">
     			            <div style="flex:1; height: auto !important; width: 100% !important; display: flex; justify-content: center; align-items: center;">
-    			                <img src="./images/client/20th century.png" id="test1" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
+    			                <img src="./images/client/20th century.png" id="test1" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:2px;" >
     			            </div>
     			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
-    			                <img src="./images/client/amazon prime.png" id="test2" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
+    			                <img src="./images/client/amazon prime.png" id="test2" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:2px;" >
     			            </div>
     			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
-    			                <img src="./images/client/blackberrys.png" id="test3" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
-    			            </div>
-    			        </div>
-    			        <div style="flex:1; display: flex; flex-direction: row; height: 33%!important;">
-    			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
-    			                <img src="./images/client/cadbury.png" id="test4" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
-    			            </div>
-    			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
-    			                <img src="./images/client/cargill.png" id="test5" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
-    			            </div>
-    			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
-    			                <img src="./images/client/Carnival Cinemas.png" id="test6" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
+    			                <img src="./images/client/blackberrys.png" id="test3" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:2px;" >
     			            </div>
     			        </div>
     			        <div style="flex:1; display: flex; flex-direction: row; height: 33%!important;">
     			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
-    			                <img src="./images/client/coffee bean tea leaf.png" id="test7" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
+    			                <img src="./images/client/cadbury.png" id="test4" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:2px;" >
+    			            </div>
+    			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
+    			                <img src="./images/client/cargill.png" id="test5" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:2px;" >
+    			            </div>
+    			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
+    			                <img src="./images/client/Carnival Cinemas.png" id="test6" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:2px;" >
+    			            </div>
+    			        </div>
+    			        <div style="flex:1; display: flex; flex-direction: row; height: 33%!important;">
+    			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
+    			                <img src="./images/client/coffee bean tea leaf.png" id="test7" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:2px;" >
         				    </div>
     			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
-    			                <img src="./images/client/croma.png" id="test8" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
+    			                <img src="./images/client/croma.png" id="test8" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:2px;" >
     			            </div>
     			            <div style="flex:1; height: 100% !important; width: 33% !important; display: flex; justify-content: center; align-items: center;">
-    			                <img src="./images/client/deepali designs.png" id="test9" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:20px;" >
+    			                <img src="./images/client/deepali designs.png" id="test9" class="elementToFadeInAndOut" style="height:auto; width: auto; padding:2px;" >
     			            </div>
     			        </div>
 				</div>
