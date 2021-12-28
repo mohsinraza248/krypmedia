@@ -471,9 +471,9 @@
 	top: 30%;
 	left: 50%;
 
-	-webkit-transform: translate(-50%, -50%);
+	/*-webkit-transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%); Shubham 28/12*/
 	text-align: center;
 	}
 	@media only screen and (min-width:601px){
