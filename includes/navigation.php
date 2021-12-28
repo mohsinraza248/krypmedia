@@ -51,7 +51,7 @@
 /*Shubham 17/12/21*/
   .header .menu .container .row{
           backdrop-filter: blur(8px);
-	 background:rgba(105,105,105,0.8);
+	 background:rgba(0,0,0,0.8);
      }
     .header .menu .container .row{
           backdrop-filter: blur(8px);
