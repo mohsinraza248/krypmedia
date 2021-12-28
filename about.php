@@ -405,42 +405,7 @@
     }
     
     /*Added new images - START - Shubham - 18/12/21 */
-        .flip-container {
-        margin: 50px;
-        perspective: 1000;
-        display: inline-block;
-    }
-    .flip-container:hover .back {
-        transform: rotateY(180deg);
-    }
-    .flip-container:hover .front {
-        transform: rotateY(0deg);
-    }
-    .flip-container, .front, .back {
-        width: 130px;
-        height: 195px;
-    }
-    .card {
-        transition: 0.6s;
-        transform-style: preserve-3d;
-        position: relative;
-    }
-    .front, .back {
-        position: absolute;
-        backface-visibility: hidden;
-        transition: 0.6s;
-        transform-style: preserve-3d;
-    }
-    .front {
-        z-index: 1;
-        transform: rotateY(-180deg);
-        background: url("/examples/images/card-front.jpg") no-repeat;
-    }
-    .back {
-        z-index: 2;
-        transform: rotateY(0deg);
-        background: url("/examples/images/card-back.jpg") no-repeat;
-    }
+     
     /*Added new images - STOP - Shubham - 18/12/21 */
 
     
