@@ -49,9 +49,9 @@
 						<div class="col-sm-2"></div>
 						<div class="col-sm-4">
 							<div class="overlay">
-								<img class="img-responsive" src="images/about/karan_b.gif">
+								<img class="img-responsive" src="images/about/new/karan sir.png">
 								<div class="our-work-single-desc">
-								    <img class="img-responsive" src="images/about/karan_b.gif">
+								    <img class="img-responsive" src="images/about/new/karan sir.png">
 									<p>Karan Bhardwaj </p>
 							        <p ><i>M.D & C.E.O</i></p>
 								</div>
