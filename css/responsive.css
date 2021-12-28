@@ -2,6 +2,7 @@
 @media only screen and (max-width : 1200px){
  	.social{
         top: 125px;
+        dispaly: flex;
     }
     
     .caption h1{
