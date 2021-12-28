@@ -441,7 +441,7 @@
 	height: 100%;
 	width: 100%;
 	opacity: 0;
-	transition: .5s ease;
+	/*transition: .5s ease;*/
 	/*background-color: #bb072c;
     background-color: #D0BB00;*/
     background-color: black;
