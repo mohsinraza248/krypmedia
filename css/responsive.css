@@ -1,4 +1,13 @@
-
+@media only screen and (min-width: 768px){
+	.social{
+	    transform: translate(-50%,10%);
+            position: relative;
+	    margin-bottom: 20px;
+	    float: left;
+ 	}
+}
+	
+		
 @media only screen and (min-width : 1280px){
  	.social{
         top: 125px;
