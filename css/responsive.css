@@ -2,7 +2,9 @@
 @media only screen and (min-width : 1280px){
  	.social{
         top: 125px;
-        width: 50%;
+        transform: translate(-50%,10%);
+	position: relative;
+	float: left;
     }
     
     .caption h1{
@@ -14,7 +16,7 @@
     .social{
         top: 125px;
         left: 63%;
-	width: 50%;
+	width: auto;
     }
     
     .scroll-btn{
