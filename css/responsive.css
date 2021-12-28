@@ -1,8 +1,8 @@
 
-@media only screen and (max-width : 1200px){
+@media only screen and (min-width : 1280px){
  	.social{
         top: 125px;
-        dispaly: flex;
+        width: auto;
     }
     
     .caption h1{
@@ -14,6 +14,7 @@
     .social{
         top: 125px;
         left: 63%;
+	width: auto;
     }
     
     .scroll-btn{
