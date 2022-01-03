@@ -62,6 +62,8 @@ p{
 	font-size: 16px;
 	text-align: justify; /* Shubham - 27/12 - for removing spacing between navbar text*/
 	font-family: 'Lato Thin', sans-serif;
+	word-break: break-word;
+	hyphens: auto;
 	
 }
 ul,li,a {
