@@ -17,7 +17,7 @@
     			<div style="display: flex; flex-direction: row; height: 100%;justify-content:center; align-items:center; max-width:1200px; margin: auto;">
     			    <div style="flex: 1; display:flex; flex-direction: column; justify-content: center;" >
     			        <h3 style="color: whitesmoke; font-weight: bolder;"> Our Clients</h3><br/><br/>
-    			        <h2 style="color: #bebdbd;"> Pleasure to work with</h2>
+    			        <!-- <h2 style="color: #bebdbd;"> Pleasure to work with</h2> -->
     			    </div>
     			    <!--<div style="flex:1; display: flex; flex-direction: column; height: 95%!important;border: solid 10px #6c3e6d;margin-right:10px; border-radius:5px; background: white">-->
     			    <div style="flex:1; display: flex; flex-direction: column; height: 95%!important;border: solid 10px #36454F;margin-right:10px; border-radius:5px; background: white">
