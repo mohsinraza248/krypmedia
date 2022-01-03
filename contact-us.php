@@ -45,9 +45,13 @@
 								<i class="icon-twitter fas fa-phone"></i><a href="tel:0229820032280" class="contact-link">
 									+91 9820032280
 								</a><br><br>
-								<i class="icon-twitter fas fa-envelope"></i><a href="mailto:sales@experientialetc.com" class="contact-link">
+								<!-- <i class="icon-twitter fas fa-envelope"></i><a href="mailto:sales@experientialetc.com" class="contact-link">
 									sales@experientialetc.com
-								</a><br>
+								</a> -->
+								<i class="icon-twitter fas fa-envelope"></i><a href="mailto:connect@experientialetc.com" class="contact-link">
+									connect@experientialetc.com
+								</a> 
+								<br>
 								<p >
 									<br>
 									Follow Us on 
