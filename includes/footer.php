@@ -19,7 +19,8 @@
 				<div class="contact">
 					<i class="far fa-envelope"></i><br>
 					<!--     <b>Email Address</b><br>-->
-					<p><a href="mailto:sales@experientialetc.com" class="footer-mail footer-link">sales@experientialetc.com</a></p>
+					<!--<p><a href="mailto:sales@experientialetc.com" class="footer-mail footer-link">sales@experientialetc.com</a></p>-->
+					<p><a href="mailto:connect@experientialetc.com" class="footer-mail footer-link">connect@experientialetc.com</a></p>
 				</div>
 			</div>
 		</div>
