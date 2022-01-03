@@ -1376,7 +1376,7 @@ i.fa {
  .services-card{
   flex: 1;
   margin: 10px 10px;
-  height: 30rem;
+  height: auto;
   background: #000;
 }
 .services-slider .services-card .img{
