@@ -16,7 +16,7 @@
 			<p class="breadcrumb_text">Home &gt; Portfolio</p>
     			<div style="display: flex; flex-direction: row; height: 100%;justify-content:center; align-items:center; max-width:1200px; margin: auto;">
     			    <div style="flex: 1; display:flex; flex-direction: column; justify-content: center;" >
-    			        <h3 style="color: whitesmoke; font-weight: bolder;top:50%"> Our Clients</h3><br/><br/>
+    			        <h3 style="color: whitesmoke; font-weight: bolder;top:60%"> Our Clients</h3><br/><br/>
     			        <!-- <h2 style="color: #bebdbd;"> Pleasure to work with</h2> -->
     			    </div>
     			    <!--<div style="flex:1; display: flex; flex-direction: column; height: 95%!important;border: solid 10px #6c3e6d;margin-right:10px; border-radius:5px; background: white">-->
