@@ -1968,8 +1968,11 @@
 			.modal-body {
 			text-align: center;
 			}
+			
+			/*Shubham - 4/1/22 - for change of text color */
 			.modal-body-para{
-				color:black;/*Shubham - 4/1/22 - for change of text color */
+				color:black;
+				padding-top:2%;
 			}
 			
 			
