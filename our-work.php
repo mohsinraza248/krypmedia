@@ -1972,7 +1972,7 @@
 			/*Shubham - 4/1/22 - for change of text color */
 			.modal-body-para{
 				color:black;
-				padding-top:5%;
+				padding-top:10%;
 			}
 			
 			
