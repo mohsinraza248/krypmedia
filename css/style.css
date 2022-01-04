@@ -143,6 +143,7 @@ a:hover{
     float: right;
     padding: 20px 0px;
     display: -webkit-inline-box;
+    /* changed */
 }
 .top-links li{
 	float: left;
