@@ -1967,8 +1967,12 @@
 			}
 			.modal-body {
 			text-align: center;
-			color:black;/*Shubham - 4/1 - for change of text color */
 			}
+			.modal-body-para{
+				color:black;/*Shubham - 4/1/22 - for change of text color */
+			}
+			
+			
 			a#single_image .img {
 			max-height: 300px;
 			}
