@@ -331,7 +331,8 @@ a:hover{
 .scroll-btn{
 	position: absolute;
     /*margin-top: 32%;*/
-    margin-top: 35%;
+    /*margin-top: 35%;*/
+	margin-top: 25%;
     /*left: 50%;*/
     left: 49%;
 }
