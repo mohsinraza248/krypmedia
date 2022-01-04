@@ -136,12 +136,13 @@ a:hover{
 	z-index: 1001 !important;
 }
 .top-links{
-	list-style: none;
+    list-style: none;
     overflow: hidden;
     margin-bottom: 0;
     width: fit-content;
     float: right;
     padding: 20px 0px;
+    display: -webkit-inline-box;
 }
 .top-links li{
 	float: left;
