@@ -30,7 +30,8 @@
     }
     
     .scroll-btn{
-        margin-top:45%;
+        /*margin-top:45%;*/
+	    margin-top:25%;
     }
  	
 }
