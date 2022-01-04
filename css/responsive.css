@@ -35,6 +35,15 @@
     }
  	
 }
+
+@media only screen and (max-width : 992px){
+    .scroll-btn{
+        /*margin-top:45%;*/
+	   margin-top:50%; 
+    }
+ 	
+}
+
 @media only screen and (max-width : 768px){
  	.social{
 	    position: absolute;
