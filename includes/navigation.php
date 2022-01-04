@@ -9,7 +9,7 @@
                       </div>
                       <!--<div class="col-sm-7">-->
                       <div class="col-sm-8">
-                         <ul class="top-links" style="display: -webkit-inline-box;">
+                         <ul class="top-links">
                             <!--<li>
                                <img src="images/icons/h-icons1.png">
                                <p><a href="distributor">Partner with us</a></p>
