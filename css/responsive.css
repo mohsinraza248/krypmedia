@@ -183,7 +183,7 @@
 	   }
 
 	    .top-links{
-		display:-webkit-inline-box ;
+		display: flex ;
 		align-items: center;
 
 	    }
