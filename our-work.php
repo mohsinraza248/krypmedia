@@ -1979,9 +1979,8 @@
 				background-color: black;
 			}
 			
-			.modal-body-para{
+			.modal-body{
 				background-color: #36454f;
-				padding-top:15%;
 			}
 			
 			
