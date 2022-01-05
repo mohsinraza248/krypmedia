@@ -1976,11 +1976,12 @@
 			}
 			
 			.modal-header{
-				background-color: black;
+				background-color: #36454f;
 			}
 			
 			.modal-body{
-				background-color: #36454f;
+			
+				background-color: black;
 			}
 			
 			.modal-body-para{
