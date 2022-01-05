@@ -1971,7 +1971,7 @@
 			
 			/*Shubham - 4/1/22 - for change of text color */
 			.modal-content{
-				background-color: #36454f;
+				background-color: #1B1212;/*#36454f;*/
 			}
 			
 			.modal-body-para{
