@@ -1,7 +1,7 @@
 
 <!--Color : charcoal #36454f-->
 <!--Color : Licorice #1B1212-->
-<!--Color : Darkgrey #838383-->
+<!--Color : Darkgrey #373737-->
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
@@ -1977,7 +1977,7 @@
 			}
 			
 			.modal-header{
-				background-color: #838383;
+				background-color: #373737;
 			}
 			
 			.modal-body{
