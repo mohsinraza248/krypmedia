@@ -1983,6 +1983,9 @@
 				background-color: #36454f;
 			}
 			
+			.modal-body-para{
+				padding-top: 5px;				
+			}
 			
 			a#single_image .img {
 			max-height: 300px;
