@@ -1970,8 +1970,12 @@
 			}
 			
 			/*Shubham - 4/1/22 - for change of text color */
+			.modal-content{
+				background-color: #36454f;
+			}
+			
 			.modal-body-para{
-				color:black;
+				color:white;
 				padding-top:15%;
 			}
 			
